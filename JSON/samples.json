@@ -1,1 +1,20 @@
-[]
+[ 
+  {
+    "name": "Malcolm X, Friends and enemies",
+    "file": "samples/MALCOMX_friends_and_enemies.mp3",
+    "bpm": "75",
+    "loop": "2m"
+  },
+  {
+    "name": "Malcom X , Power",
+    "file": "samples/power.mp3",
+    "bpm": "75",
+    "loop": "2m"
+  },
+  {
+    "name": "Malcolm X, There's a time",
+    "file": "samples/theres_a_time.mp3",
+    "bpm": "75",
+    "loop": "2m"
+  }
+]
